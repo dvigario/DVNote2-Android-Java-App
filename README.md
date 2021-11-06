@@ -1,5 +1,7 @@
 # DVNote2 App
-Android-Java-App - Notepad app with user and password
+Android-Java-App
+
+### Notepad app with user and password
 Application made in Android Studio with Java language and SQLite database.
 
 ### How does it work:
