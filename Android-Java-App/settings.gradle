@@ -1,0 +1,2 @@
+rootProject.name='DVNotes2'
+include ':app'
