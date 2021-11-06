@@ -9,6 +9,7 @@ Application made in Android Studio with Java language and SQLite database.
 * Creating, reading, altering and erasing (CRUD) notes and users.
 * Data is archived in the SQLite database locally on the device.
 * The application is intuitive as shown in the images below.
+* Search / find notes.
 
 Powered by DViga ❤️
  
