@@ -24,5 +24,6 @@ Powered by DViga ❤️
 <img src="img/06.png" alt="Screenshot 5" width="200em"><img src="img/07.png" alt="Screenshot 6" width="200em">
 <img src="img/09.png" alt="Screenshot 7" width="200em">
 
-
+<!--
 <img src="img/03.png" alt="Screenshot 8" width="500em">
+-->
